@@ -30,6 +30,9 @@ public class Buttons {
 	public static final int KEY_VLC_FULLSCREEN =  KeyEvent.VK_F;
 	
 	public static final int PRESS_SHIFT=  KeyEvent.VK_SHIFT;
+	public static final int FIRST_ALPHABET=  KeyEvent.VK_A;
+	public static final int FIRST_NUMBER=  KeyEvent.VK_0 ;
+	
 	
 	
 	
